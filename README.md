@@ -24,3 +24,5 @@ A beginner cybersecurity project built with Python that analyzes authentication 
 
 ## Purpose
 This project demonstrates basic log analysis and introduces security event detection for beginner SOC-style work.
+
+![Project Output](Output.png)
